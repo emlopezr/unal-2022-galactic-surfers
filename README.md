@@ -10,11 +10,11 @@
 ## Descripción del juego
 Galactic Surfers es un juego de tipo Runner Infinito ubicado en el espacio exterior en el cual el jugador maneja una nave espacial la cual deberá de evitar los obstaculos que se interpongan en el camino. El objetivo del juego es conseguir la mejor puntuación recorriendo la mayor distancia posible, también el jugador puede recolectar monedas. A medida que la nave avanza, gana velocidad y es más difícil evitar los obstáculos. El jugador podrá contar con una variedad de ventajas que le ayudarán a lograr el objetivo de conseguir la mejor puntuación, estas ventajas son: Puntos dobles, inmunidad temporal y un imán que atrae las monedas.
 
-![Imagen gameplay 1](https://github.com/lopezemmanuel/ICV2022-1_ProyectoFinal/blob/main/Informacion/ImagenGameplay1.png)
-![Imagen gameplay 2](https://github.com/lopezemmanuel/ICV2022-1_ProyectoFinal/blob/main/Informacion/ImagenGameplay2.png)
-![Imagen gameplay 3](https://github.com/lopezemmanuel/ICV2022-1_ProyectoFinal/blob/main/Informacion/ImagenGameplay3.png)
-![GIF del gameplay](https://github.com/lopezemmanuel/ICV2022-1_ProyectoFinal/blob/main/Informacion/GIFGameplay.gif)
-![Icono del juego](https://github.com/lopezemmanuel/ICV2022-1_ProyectoFinal/blob/main/Informacion/IconoJuego.png)
+![Imagen gameplay 1](https://github.com/emlopezr/unal-2022-galactic-surfers/blob/main/Informacion/ImagenGameplay1.png)
+![Imagen gameplay 2](https://github.com/emlopezr/unal-2022-galactic-surfers/blob/main/Informacion/ImagenGameplay2.png)
+![Imagen gameplay 3](https://github.com/emlopezr/unal-2022-galactic-surfers/blob/main/Informacion/ImagenGameplay3.png)
+![GIF del gameplay](https://github.com/emlopezr/unal-2022-galactic-surfers/blob/main/Informacion/GIFGameplay.gif)
+![Icono del juego](https://github.com/emlopezr/unal-2022-galactic-surfers/blob/main/Informacion/IconoJuego.png)
 
 ## Detalles del proyecto
 - **Versión de Unity:** 2020.3.31f1
